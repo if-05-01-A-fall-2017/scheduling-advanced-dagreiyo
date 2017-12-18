@@ -1,0 +1,9 @@
+1.)	5 times (1 + 2 + 4 + 8 + 15 = 30)
+2.)	B because the first runs are devided by more and more
+3.)	A process is CPU-bound when the time for to complete a task is determined by the speed of the central processor
+	A process is I/O-bound when the time for to complete a task is determined by the period spent waiting for the Input/Output Operations to be completed
+	
+4.)	35/50 + 20/100 + 10/200 + x/250 = 1
+	1 - 35/50 - 20/100 - 10/200 = x/250
+	1/20 * 250 = x
+	x = 12.5
